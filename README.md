@@ -2,9 +2,9 @@
 
 Simple application to remove or add permissions to a PDF file.
 
-Download latest version on "published" folder or using this link
+Download latest version using this link
 
-https://github.com/jgborges/LockPDF/raw/master/published/LockPDF.exe
+https://github.com/everything411/LockPDF/releases/download/1.0.1/LockPDF.exe
 
 Features: 
 
